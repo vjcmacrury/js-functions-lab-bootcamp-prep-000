@@ -7,8 +7,7 @@ function happyHolidaysTo(you) {
   return("Happy holidays, you!")
 }
 
-function happyHolidaysTo(IndependenceDay, you) {
+function happyHolidayTo(IndependenceDay, you) {
   return("Happy Independence Day, you!")
-  if holidays === IndependenceDay
 }
 
