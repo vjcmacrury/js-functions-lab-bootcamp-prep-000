@@ -9,5 +9,6 @@ function happyHolidaysTo(you) {
 
 function happyHolidaysTo(IndependenceDay, you) {
   return("Happy Independence Day, you!")
+  if holidays === IndependenceDay
 }
 
