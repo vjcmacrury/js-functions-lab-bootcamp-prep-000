@@ -3,6 +3,6 @@ function happyHolidays(string) {
   return("Happy holidays!")
 }
 
-function happyHolidaysTo(Jade) {
+function happyHolidaysTo(you) {
   return("Happy holidays, ${name}!")
 }
